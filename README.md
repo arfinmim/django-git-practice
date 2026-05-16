@@ -1,3 +1,1 @@
-# django-git-practice
-This is my Day 3 Git practice project.
-I am learning Git and GitHub step by step.
+NEW UPDATE: Practicing Git pull for Day 3 Task 5.
