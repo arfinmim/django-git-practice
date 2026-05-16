@@ -1,4 +1,1 @@
-NEW TEST: This change is made to practice git pull properly.
-
-
-FINAL TEST: Git pull practice completed successfully
+Day 3 practice: Git pull working successfully
